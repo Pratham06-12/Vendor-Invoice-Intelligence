@@ -122,4 +122,4 @@ docker run -p 8501:8501 vii-project
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ 8. Contact
-**Pratham** - [GitHub](https://github.com/Pratham06-12) | [LinkedIn](https://linkedin.com/in/YourLinkedIn) | [Portfolio](https://yourportfolio.com)
+**Pratham** - [GitHub](https://github.com/Pratham06-12) | [LinkedIn](https://www.linkedin.com/in/prathamnagekar06/) | [Portfolio](https://pratham06-12.github.io/pratham-portfolio/)
